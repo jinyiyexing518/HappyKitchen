@@ -1,0 +1,45 @@
+{
+    "status": 0,
+    "data": {
+        "products": [
+            {
+                "productId": 5387,
+                "name": "宫保鸡丁",
+                "poster": "https://materials.cdn.bcebos.com/images/134794417/aa494b4aebc71a788fbe09225a6fc848.jpeg",
+                "category": "荤菜",
+                "synopsis": "用鸡丁、胡萝卜炒制而成",
+                "isSale": true,
+                "num": 5
+            },
+            {
+                "productId": 5388,
+                "name": "京酱肉丝",
+                "poster": "https://img0.baidu.com/it/u=3424286548,732980447&fm=253&fmt=auto&app=138&f=JPEG?w=857&h=500",
+                "category": "荤菜",
+                "synopsis": "用猪肉丝、葱条、大酱制作而成",
+                "isSale": true,
+                "num": 5
+            },
+            {
+                "productId": 5389,
+                "name": "糖醋排骨",
+                "poster": "https://p5.itc.cn/q_70/images03/20210203/427160b50a2f43358520062d801943c0.jpeg",
+                "category": "荤菜",
+                "synopsis": "用排骨、番茄酱制作而成",
+                "isSale": true,
+                "num": 5
+            },
+            {
+                "productId": 5390,
+                "name": "锅包肉",
+                "poster": "https://cp1.douguo.com/upload/caiku/9/4/f/yuan_940ce8c39b59e2c521127be4b93f630f.jpg",
+                "category": "荤菜",
+                "synopsis": "由肉和香菜炒至而成",
+                "isSale": true,
+                "num": 5
+            }
+        ],
+        "msg": "ok"
+    }
+}
+

@@ -1,0 +1,12 @@
+.carousel {
+    .card-wrap{
+        width: 800px;
+    }
+    .slick-slide {
+        text-align: center;
+        height: 160px;
+        line-height: 160px;
+        background: red;
+    }
+}
+

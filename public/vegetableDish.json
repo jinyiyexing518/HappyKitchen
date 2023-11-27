@@ -1,0 +1,27 @@
+{
+    "status": 0,
+    "data": {
+        "products": [
+            {
+                "productId": 5386,
+                "name": "爆炒鸡蛋",
+                "poster": "https://img1.baidu.com/it/u=3776687910,1137071558&fm=253&fmt=auto&app=138&f=JPEG?w=524&h=350",
+                "category": "素菜",
+                "synopsis": "用鸡蛋、香葱炒制而成",
+                "isSale": true,
+                "num": 5
+            }, 
+            {
+                "productId": 5391,
+                "name": "丝瓜汤",
+                "poster": "https://th.bing.com/th/id/R.b1de034c6658de6414ac350dd4eea4c6?rik=kgwyecmPSf2Tng&riu=http%3a%2f%2fi0.hdslb.com%2fbfs%2farchive%2f512bc1c06b2b9b741bf6d67ef622d43bede8d2be.jpg&ehk=tE2i8fZc%2fpoQ%2fqvZhCLeRHbbZMNovVXm2ufJf%2fwan5A%3d&risl=&pid=ImgRaw&r=0",
+                "category": "素菜",
+                "synopsis": "用丝瓜、鸡蛋制作而成",
+                "isSale": true,
+                "num": 5
+            }
+        ],
+        "msg": "ok"
+    }
+}
+
