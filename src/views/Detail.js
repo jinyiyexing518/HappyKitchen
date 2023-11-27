@@ -83,7 +83,7 @@ export default function Detail(props) {
   const unfavourite = () => {
     let favouriteList = JSON.parse(sessionStorage.getItem("favourite")) || [];
     let newData = favouriteList.filter(
-      (item) => item.productId != props.match.params.myid
+      (item) => item.productId !== props.match.params.myid
     );
     sessionStorage.setItem("favourite", JSON.stringify(newData));
     console.log(newData);
@@ -97,12 +97,12 @@ export default function Detail(props) {
       setList(res.data.data.products);
 
       let newData = list.filter(
-        (item) => item.productId == props.match.params.myid
+        (item) => item.productId === props.match.params.myid
       );
       // console.log(newData);
       setData(newData);
     });
-  }, [data]);
+  }, [data, list, props.match.params.myid]);
 
   return (
     <div>
